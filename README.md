@@ -2,8 +2,6 @@
 
 [![Latest version](https://img.shields.io/github/v/release/YuKitsune/interpolate)](https://github.com/YuKitsune/interpolate/releases/latest)
 [![Build](https://img.shields.io/github/actions/workflow/status/YuKitsune/interpolate/release.yml)](https://github.com/YuKitsune/interpolate/actions/workflows/release.yml)
-[![Go Report Card](https://goreportcard.com/badge/github.com/yukitsune/interpolate)](https://goreportcard.com/report/github.com/yukitsune/interpolate)
-
 A command-line tool that replaces docker-compose style variables in a file.
 
 ## Installation
